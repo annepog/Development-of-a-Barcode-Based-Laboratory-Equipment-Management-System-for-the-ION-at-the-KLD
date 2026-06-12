@@ -1,0 +1,25 @@
+name,variant,barcode,total_reservations,total_borrows,total_items_reserved,total_quantity,available_quantity,utilization_rate,availability_rate
+Defibrillator,AED with ECG,4801002457995,1,3,3,1,1,100.0,100.0
+Test tubes,10mL,4801002457824,0,1,0,10,10,25.0,100.0
+Beakers (500ml),,4801002457827,0,1,0,30,25,25.0,83.33333333333334
+Stethoscopes,,4801002457831,0,1,0,10,10,25.0,100.0
+Test Tubes,5mL,4801002457826,0,0,0,50,50,0.0,100.0
+Microscope Unit 1,,"4801002457832
+
+",0,0,0,1,1,0.0,100.0
+Microscope Unit 2,,"4801002457833
+
+",0,0,0,1,1,0.0,100.0
+Funnels (Standard),,"4801002457836
+",0,0,0,20,20,0.0,100.0
+Wire Gauzes,,"4801002457837
+",0,0,0,40,40,0.0,100.0
+Lab Refrigerator,,"4801002457838
+",0,0,0,1,1,0.0,100.0
+Syringe,1mL,4801002457840,0,0,0,50,50,0.0,100.0
+Pipette Tips,200μl,4801002457841,0,0,0,100,90,0.0,90.0
+Microscope Slides,75x25mm,4801002457858,0,0,0,100,100,0.0,100.0
+Graduated Cylinders,100ml,4801002457865,0,0,0,20,20,0.0,100.0
+Petri Dishes,90mm,4801002457872,0,0,0,50,50,0.0,100.0
+pH Meter,Digital,4801002457902,0,0,0,1,1,0.0,100.0
+Test tube holders,,6970122841710,0,0,0,1,1,0.0,100.0
